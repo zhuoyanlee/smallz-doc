@@ -1,0 +1,9 @@
+com.blankpix.smallz
+com.blankpix.smallz.controller
+com.blankpix.smallz.model
+com.blankpix.smallz.model.reference
+com.blankpix.smallz.persistence.dao
+com.blankpix.smallz.persistence.dao.impl
+com.blankpix.smallz.persistence.service
+com.blankpix.smallz.persistence.service.impl
+com.blankpix.smallz.service
