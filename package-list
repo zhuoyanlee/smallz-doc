@@ -1,5 +1,7 @@
 com.blankpix.smallz
 com.blankpix.smallz.controller
+com.blankpix.smallz.dto.error
+com.blankpix.smallz.exception
 com.blankpix.smallz.model
 com.blankpix.smallz.model.reference
 com.blankpix.smallz.persistence.dao
@@ -7,3 +9,4 @@ com.blankpix.smallz.persistence.dao.impl
 com.blankpix.smallz.persistence.service
 com.blankpix.smallz.persistence.service.impl
 com.blankpix.smallz.service
+com.blankpix.smallz.util
